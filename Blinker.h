@@ -14,7 +14,7 @@
             Blinker(int pin, unsigned long interval, unsigned long startVertraging = 0);          //constructor
             // ~Blinker() ;         //Destructor
 
-            int kweenie();
+            int handle();
     };
 
 #endif
